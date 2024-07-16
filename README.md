@@ -8,11 +8,16 @@ Array Generation: Creates a random array of bars, each representing a different 
 
 Adjustable Settings: Allows users to change the size of the array and the speed of the sorting visualization.
 
-Sorting Algorithms: Implements and visualizes the following algorithms:
+Sorting Algorithms: Implements and visualizes the following algorithms-:
+
 Bubble Sort
+
 Selection Sort
+
 Insertion Sort
+
 Merge Sort
+
 Quick Sort
 
 Visual Indicators: Highlights the sorting process with colors, where sorted elements turn green.
